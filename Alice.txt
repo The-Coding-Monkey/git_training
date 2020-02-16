@@ -1,3 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago. It's hard to be alone. :'((
 This text is a test. This is more test text. YEAH :D It's cool to use git.
+<<<<<<< HEAD
 Robot-Beat
+=======
+Piep.
+>>>>>>> Piep
