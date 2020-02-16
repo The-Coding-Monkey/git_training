@@ -1,2 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-This text is a test. This is more test text. YEAH :D
+This text is a test. This is more test text. YEAH :D It's cool to use git.
